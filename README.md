@@ -38,4 +38,4 @@ calculates library fines based on the number of days a book is returned late.
 - Maintain payment history.
 
 ## Author
-Siddhi Deshmukh
+**Siddhi Deshmukh**
