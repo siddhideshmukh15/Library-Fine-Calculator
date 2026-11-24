@@ -44,4 +44,4 @@ A beginner-friendly Python application that calculates library fines for late bo
 - Maintain payment history.
 
 ## Author
-**Siddhi Deshmukh**
+Siddhi Deshmukh
