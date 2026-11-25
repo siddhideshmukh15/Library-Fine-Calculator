@@ -45,5 +45,5 @@ A beginner-friendly Python application that manages library fine records and cal
 - Create a graphical user interface.
 
 ## Author
-Siddhi Deshmukh
+**Siddhi Deshmukh**
 
