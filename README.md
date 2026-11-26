@@ -12,6 +12,7 @@ A beginner-friendly Python application that manages library fine records and cal
 - Pay pending fines.
 - Check paid and unpaid status.
 - Search records by student name.
+- Delete fine records.
 - View total, paid, and pending fine amounts.
 - Menu-driven interface.
 
@@ -46,4 +47,5 @@ A beginner-friendly Python application that manages library fine records and cal
 
 ## Author
 **Siddhi Deshmukh**
+
 
