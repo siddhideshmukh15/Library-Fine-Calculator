@@ -2,18 +2,19 @@
 # Library Fine Management System
 
 ## Description
-A beginner-friendly Python application that manages library fine records and calculates fines for books returned late. It also allows users to track payments and manage student records.
+A Python-based library fine management application that calculates fines for late book returns and helps manage student records and fine payments.
 
 ## Features
 - Enter student and book details.
 - Calculate fines based on late days.
-- Apply different fine rates.
 - View all fine records.
 - Pay pending fines.
-- Check paid and unpaid status.
 - Search records by student name.
 - Delete fine records.
 - View total, paid, and pending fine amounts.
+- View paid records.
+- View unpaid records.
+- Count total fine records.
 - Menu-driven interface.
 
 ## Fine Calculation Rules
@@ -42,10 +43,11 @@ A beginner-friendly Python application that manages library fine records and cal
 - Store records permanently.
 - Add book return dates.
 - Generate fine receipts.
-- Add payment history.
-- Create a graphical user interface.
+- Maintain payment history.
+- Add a graphical user interface.
 
 ## Author
 **Siddhi Deshmukh**
+
 
 
