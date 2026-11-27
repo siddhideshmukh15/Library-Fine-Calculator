@@ -47,7 +47,7 @@ A Python-based library fine management application that calculates fines for lat
 - Add a graphical user interface.
 
 ## Author
-**Siddhi Deshmukh**
+Siddhi Deshmukh
 
 
 
